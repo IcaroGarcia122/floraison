@@ -1,0 +1,7 @@
+{
+  "name": "Floraison CRM",
+  "description": "Painel CRM interativo com pipeline Kanban, gestão de leads e sincronização de tags do Chatwoot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
